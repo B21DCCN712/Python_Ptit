@@ -1,0 +1,16 @@
+[[package]]
+category = "main"
+description = "Pure Python PNG image encoder/decoder"
+name = "pypng"
+optional = false
+python-versions = "*"
+version = "0.0.20"
+
+[metadata]
+content-hash = "9f19cd3d4bb12f466ec7cbc03d5689755d0f81c03776a6ebb0710368d8353137"
+python-versions = "^3.8"
+
+[metadata.files]
+pypng = [
+    {file = "pypng-0.0.20.tar.gz", hash = "sha256:1032833440c91bafee38a42c38c02d00431b24c42927feb3e63b104d8550170b"},
+]
